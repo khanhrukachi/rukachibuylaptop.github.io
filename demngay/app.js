@@ -1,5 +1,5 @@
 const yourDate = new Date("2021-07-26T16:38:00"),
-music = ['dtcev'];
+music = ['dtcev' , 'dtcev' , 'dtcev', 'dtcev'];
 
 document.addEventListener('DOMContentLoaded', function(){
       var rootTime = document.querySelector("time");
